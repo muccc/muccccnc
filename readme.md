@@ -1,0 +1,1 @@
+Verzeichnis linuxcnc enthaelt die Maschinenkonfigurationsdateien unserer 6040 Fraese
